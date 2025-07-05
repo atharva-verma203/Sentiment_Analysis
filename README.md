@@ -14,17 +14,17 @@ This project involves analyzing the sentiment associated with reviews and rating
 2.  **Exploratory Data Analysis (EDA)**:
     * Sentiment Analysis with TextBlob :
     
-    ** Define a function to classify and analyze overall ratings (>= 4 : positive, <=2 : negative, 3 : neutral)
+    a. Define a function to classify and analyze overall ratings (>= 4 : positive, <=2 : negative, 3 : neutral)
     
-    ** Analyze and visualize distribution
+    b. Analyze and visualize distribution
     
     * Machine Learning Models (5-fold classification) :
     
-    ** Support Vector Machine (SVM) : Finding the optimal hyperplane using Linear and Radial Basis Function (RBF) kernels
+    a. Support Vector Machine (SVM) : Finding the optimal hyperplane using Linear and Radial Basis Function (RBF) kernels
     
-    ** Random Forest Classifier : Employed as an ensemble learning method for robust classification
+    b. Random Forest Classifier : Employed as an ensemble learning method for robust classification
     
-    ** Naïve Bayes : Cross-validation applied for text classification, leveraging feature-extracted text
+    c. Naïve Bayes : Cross-validation applied for text classification, leveraging feature-extracted text
     
     ** Models trained, tested and evaluated using standard metrics (accuracy, precision, recall, F1-score) and confusion matrices
 3.  **Addressing Class Imbalance**:
