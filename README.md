@@ -32,10 +32,15 @@ This project involves analyzing the sentiment associated with reviews and rating
    
     * Synthetic samples generated for minority classes (negative, neutral), thus improving model performance
 4.  **Interpretation**:
+
     * Random Forest Classifier model best fit with 78.54% accuracy among the three models
+   
 5.  **Notes**:
+   
     * While VADER is more efficient for nuanced sentiment analysis, TextBlob was chosen for its potential effectiveness in detecting notes of sarcasm and irony.
+   
 6.  **Sustainable Development Goals (SDGs)**:
+   
     * **SDG 9** : Industry, Innovation and Infrastructure
    
     * **SDG 12** : Responsible Consumption and Production 
